@@ -10,7 +10,7 @@ I started my coding journey in 2022, and since then, I've been passionate about 
 ### 🌍 About Me
 <p>
 📍 Based in Colombo, Sri Lanka <br>
-✉ Reach me at: <strong><a href="mailto:mudaligenavithma3@gmail.com">ovtdamintha@gmail.com</strong> <br>
+✉ Reach me at: <strong><a href="mailto:mudaligenavithma3@gmail.com">mudaligenavithma3@gmail.com</strong> <br>
 😄 Pronouns: she/her <br>
 🧠 Currently learning: <strong>Docker</strong> <br>
 ❓ Ask me about: <strong>Web Development, CI/CD, AI and ML , Backend development, Programming Concepts</strong> <br>
