@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navithma</h1>
-<h3>Final-Year Computer Science Undergraduate</h3>
+<h3>Computer Science graduate</h3>
 
 <p>
 I started my coding journey in 2022, and since then, I've been passionate about learning, challenging myself, and working on impactful projects.  
